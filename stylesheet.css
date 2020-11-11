@@ -63,3 +63,12 @@ body {
    background-color: aqua;
    justify-items: center;
 }
+
+.adress-text a {
+   text-decoration: none;
+   color: black;
+}
+
+.adress-text a:hover {
+   text-decoration: underline;
+}
