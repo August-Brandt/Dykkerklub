@@ -1,4 +1,4 @@
-/* Main styles */
+/* Master styles */
 body {
    margin: 0px;
 }
@@ -52,9 +52,38 @@ body {
 }
 
 
+/* Forside styles */
+.forside-wrapper {
+   margin: 2.5%;
+}
+
+.velkommen-wrapper {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+}
+
+.velkommen-img img {
+   width: 100%;
+   height: auto;
+}
+
+.velkommen-text {
+   margin-right: 1%;
+}
+
+.velkommen-text h2 {
+   text-align: center;
+   font-family: Helvetica, sans-serif;
+}
+
+.velkommen-text p {
+   font-family: Georgia, serif;
+}
+
+
+
 /* Bottombar styles */
 .bottombar-wrapper {
-   position: fixed;
    bottom: 0px;
    display: grid;
    grid-template-columns: 1fr 1fr;
