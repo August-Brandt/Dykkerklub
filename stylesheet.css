@@ -156,3 +156,30 @@ body {
   text-align: left;
   margin-left: 6%;
 }
+
+/* Andreas styles */
+table,th,td{
+  margin-left: auto;
+  margin-right: auto;
+  border: solid black;
+  width: 25em;
+}
+.Kursus {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Kursusbeskrivelser {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Kursusbeskrivelser1 {
+  font-family: sans-serif;
+  text-align: center;
+  color:#D3D3D3;
+}
+.trf1{
+  background-color:#7FFF00;
+}
+.trf2{
+  background-color:#008000;
+}
