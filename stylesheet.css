@@ -101,3 +101,58 @@ body {
 .adress-text a:hover {
    text-decoration: underline;
 }
+
+/* Victor styles */
+.centrum {
+  text-align: center;
+}
+
+.infobox_1 {
+  border:solid;
+  border-width: thick;
+  width:395px;
+  margin-left: 5%;
+}
+
+.infobox_1 h3 {
+  margin-left: 20px;
+}
+
+.infobox_2 {
+  border:solid;
+  border-width: thick;
+  width:395px;
+  margin-right: 5%
+}
+
+.infobox_2 h3 {
+  margin-left: 20px;
+}
+
+.infobox_wrapper {
+  display:flex;
+  justify-content: space-between;
+}
+
+.dykke_niveau {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16%;
+  margin-left: 60px;
+  margin-right: 60px;
+  align-items: center;
+}
+
+.dykke_niveau_info {
+  width: 45%;
+}
+
+.højre {
+  text-align: right;
+  margin-right: 8%;
+}
+
+.venstre {
+  text-align: left;
+  margin-left: 6%;
+}
